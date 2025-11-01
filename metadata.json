@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Analyzer",
+  "description": "Upload an MP4 video to have Gemini Pro analyze it and provide a detailed breakdown including an executive summary, key takeaways, and action items.",
+  "requestFramePermissions": []
+}
